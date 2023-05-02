@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💾 Data Engineering (Python 🐍 and Scala)
+- 🖥️ Data Engineering (Python 🐍 and Scala)
 - 💻 Data intensive Systems in Rust 🦀 and Java ☕
 - Basic Frontend stuff in React ⚛️ and Typescript
 - ⚡ Reach out to me for collaborating on OSS
