@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 🖥️ Data Engineering (Python 🐍 and Scala)
+
 💻 Data intensive Systems in Rust 🦀 and Java ☕
 
 - ⚡ Reach out to me for collaborating on OSS
