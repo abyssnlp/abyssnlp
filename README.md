@@ -1,4 +1,4 @@
-Senior Software Engineer - Data @newwork
+Senior Software Engineer - Data
 
 ### Hi there 👋
 
