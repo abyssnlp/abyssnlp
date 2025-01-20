@@ -37,5 +37,7 @@
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/shauryarawat" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://medium.com/@contactunskewdata" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a></p>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=abyssnlp&size_weight=0.5&count_weight=0.5" alt="Github Top Langs"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abyssnlp&size_weight=0.5&count_weight=0.5" alt="GitHub Streak" /></a>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=abyssnlp" alt="GitHub Streak" /></a>
+<a href="https://github-stats-puce-xi.vercel.app/api?username=abyssnlp&show_icons=true&theme=tokyonight&show=reviews,prs_merged"><img src="https://github-stats-puce-xi.vercel.app/api?username=abyssnlp&show_icons=true&theme=tokyonight&show=reviews,prs_merged" alt="Github Stats"</a>
+<br/>
+<a href="https://github-stats-puce-xi.vercel.app/api/top-langs/?username=abyssnlp&theme=tokyonight&size_weight=0.5&count_weight=0.5" alt="Github Top Langs"><img src="https://github-stats-puce-xi.vercel.app/api/top-langs/?username=abyssnlp&theme=tokyonight&size_weight=0.5&count_weight=0.5&layout=compact" alt="GitHub Streak" /></a>
+<!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=abyssnlp" alt="GitHub Streak" /></a> -->
